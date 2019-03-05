@@ -1,0 +1,5 @@
+name: 'GHE: Explore Degree Programs'
+type: module
+description: 'Custom module to display degree programs'
+core: 8.x
+package: 'Global Health Education'
